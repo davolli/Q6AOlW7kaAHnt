@@ -46,7 +46,7 @@ function fazerPedido(){
 	.then(function (){
 		//$("#publicado").toggleClass('displayNone')
 		//$("#progressPublicar").toggleClass('displayNone')
-		$("#facapedido").text('Pedido enviado, aguarde!')
+		$("#facapedido").text('Pedido enviado, aguarde.')
 
 	})
 }
