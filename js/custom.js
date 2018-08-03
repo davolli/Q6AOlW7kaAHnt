@@ -14,6 +14,7 @@
 
 
  // Initialize Firebase
+ //var ref = new Firebase('nauru-3732.firebaseapp.com');
  var config = {
 	 apiKey: "AIzaSyCSoKIgYnU--pJ4yuuIZTRXmr6rAtP12Hs",
 	 authDomain: "nauru-3732.firebaseapp.com",
